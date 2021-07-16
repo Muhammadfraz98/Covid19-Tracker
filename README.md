@@ -1,5 +1,5 @@
     ***********************HOSTING******************
-    *  https://covid-19-tracker-7867f.web.app/     *
+    *   https://covid-19-tracker-pwa.web.app/      *
     ************************************************
 
 # Getting Started with Create React App
